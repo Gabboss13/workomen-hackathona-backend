@@ -6,9 +6,6 @@ const app = express ()
 
 routes(app)
 
-app.get('/', function (req, res) {
-    res.send('Hello World!');
-  });
 
 app.listen(port, ()=> console.log(`server running on port ${port}`))
 

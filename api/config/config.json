@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "Sherlock13.",
-    "database": "workomen",
+    "database": "base_workomen",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },

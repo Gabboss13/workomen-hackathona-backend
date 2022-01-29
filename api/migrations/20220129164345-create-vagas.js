@@ -9,9 +9,11 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       empresa: {
+        allowNull: false,
         type: Sequelize.STRING
       },
       vaga: {
+        allowNull: false,
         type: Sequelize.STRING
       },
       area: {
@@ -24,6 +26,7 @@ module.exports = {
         type: Sequelize.FLOAT
       },
       site: {
+        allowNull: false,
         type: Sequelize.STRING
       },
       pessoa_preta: {

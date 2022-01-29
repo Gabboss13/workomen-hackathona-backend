@@ -15,7 +15,6 @@ module.exports = {
         pessoa_trans: false,
         mais_50: false,
         pessoa_pcd: false,
-        nao_aplica: false,
         createdAt: new Date(),
         updatedAt: new Date()
      },
@@ -31,7 +30,6 @@ module.exports = {
       pessoa_trans: false,
       mais_50: true,
       pessoa_pcd: false,
-      nao_aplica: false,
       createdAt: new Date(),
       updatedAt: new Date()
      }

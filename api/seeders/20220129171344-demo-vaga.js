@@ -14,7 +14,6 @@ module.exports = {
         pessoa_trans:undefined,
         mais_50:undefined,
         pessoa_pcd:undefined,
-        nao_aplica: true,
         createdAt: new Date(),
         updatedAt: new Date()
       }

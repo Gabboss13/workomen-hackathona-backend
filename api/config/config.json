@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "Sherlock13.",
-    "database": "base_workomen",
-    "host": "127.0.0.1",
+    "username": "matheusl01_add3",
+    "password": "gabi123",
+    "database": "matheusluizn01",
+    "host": "mysql.matheusluizn.com",
     "dialect": "mysql"
   },
   "test": {

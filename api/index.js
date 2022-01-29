@@ -1,6 +1,6 @@
 const express = require ('express')
 const routes = require ('./routes')
-const port = 8000
+const port = process.env.PORT
 
 const app = express ()
 
